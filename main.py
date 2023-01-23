@@ -5,7 +5,6 @@ import random
 first_name = input("what is the babies first name? ")
 last_name = input ("What is the babies last name? ")
 
-real_name ="Rae"
 
 
 input_names = input("Enter middle names you like separated by a comma: ")
