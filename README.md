@@ -6,9 +6,10 @@ This is a python project I created to "help" my wife and I randomly choose our s
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and libraries Used</h2>
 
 - <b>Python</b> 
+- <b>random</b>
 
 
 <h2>Environments Used </h2>
